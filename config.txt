@@ -1,4 +1,4 @@
 serverBaseUrl=https://zaijan.store/IshiLib/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
-MID END DEVICE|libcess.so| MID END DEVICE. This version is optimized for mid-range devices. 
+MasTerBooTen|libcess.so| AceTrick 
 
