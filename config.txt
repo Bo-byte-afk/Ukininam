@@ -1,4 +1,9 @@
-serverBaseUrl=https://zaijan.store/IshiLib/
+serverBaseUrl=https://dinzcess.shop/OnlineMe/
+
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
-MasTerBooTen|libcess.so| AceTrick 
+
+appTitle=MasTerBooTen
+
+
+game1=LOW END DEVICE|liblow.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
 
