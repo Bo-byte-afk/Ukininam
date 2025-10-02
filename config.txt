@@ -5,5 +5,5 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 appTitle=MasTerBooTen
 
 
-game1=LOW END DEVICE|libcess.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
+LOW END DEVICE|libcess.so|LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
 
