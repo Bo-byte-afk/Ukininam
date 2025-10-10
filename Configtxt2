@@ -5,4 +5,6 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 appTitle=MasTerBooTen
 
 
-game1=LOW END DEVICE|libcess2.so|LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
+game1=LOW END DEVICE|libcess2.so|Variant 1
+
+game2=NEW MOD|libpro.so| Variant 2
